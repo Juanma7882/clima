@@ -25,17 +25,15 @@ export function weatherImage(clima) {
     switch (clima) {
         case "Tormentas":
             return "/public/img/tormenta.png";
-        // return "../img/tormenta.png";
         case "Nieve":
             return '/public/img/nieve.png';
         case "Lluvia":
             return '/public/img/lluvia2.png';
-        // return '../img/lluvia2.png';
         case "Viento":
             return '/public/img/viento.png';
-        // return '../img/viento.png';
         case "Nublado":
-            return '/public/img/nublado.png';
+            // return '/public/img/nublado.png';
+            return '/img/nublado.png';
         case "Soleado":
             return '/public/img/soleado.png';
         default:
