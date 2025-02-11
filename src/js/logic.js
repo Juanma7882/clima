@@ -24,17 +24,20 @@ export function determinarClima(probLluvia, temp, velocidadViento, probTormenta,
 export function weatherImage(clima) {
     switch (clima) {
         case "Tormentas":
-            return "/src/img/tormenta.png";
+            // return "/src/img/tormenta.png";
+            return "../img/tormenta.png";
         case "Nieve":
-            return '/src/img/nieve.png';
+            return '../img/nieve.png';
         case "Lluvia":
-            return '/src/img/lluvia2.png';
+            // return '/src/img/lluvia2.png';
+            return '../img/lluvia2.png';
         case "Viento":
-            return '/src/img/viento.png';
+            // return '/src/img/viento.png';
+            return '../img/viento.png';
         case "Nublado":
-            return '/src/img/nublado.png';
+            return '../img/nublado.png';
         case "Soleado":
-            return '/src/img/soleado.png';
+            return '../img/soleado.png';
         default:
             return "image error"
     }
