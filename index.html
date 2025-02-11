@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clima meteorológico</title>
+    <!-- iconos de flatiron  https://www.flaticon.es/iconos-gratis/viento-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,100,0,0"
+    />
+    <!-- <link rel="stylesheet" href="/src/css/style.css" /> -->
+    <link rel="stylesheet" href="./src/css/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <main class="weather swiper">
+        <!-- ! buscador  -->
+
+        <form class="weather__form" action="">
+          <input
+            class="weather__form--input"
+            type="text"
+            placeholder="buscar"
+          />
+          <button
+            type="submit"
+            class="material-symbols-outlined weather--search"
+          >
+            search
+          </button>
+        </form>
+        <div class="modal none"><p class="modal__texto">Cargando....</p></div>
+        <!-- ! contiene la tarjeta del dia de hoy  -->
+
+        <div class="weather__current none"></div>
+
+        <!--! contenedor de tarjetas para el clima en los Dias de la semana  -->
+        <div class="forecast forecast--week none"></div>
+
+        <!--! Final de los Dias de la semana  -->
+        <!-- ? pronostico por horas del dia  -->
+        <div class="swiper forecast forecast--hours none">
+          <div class="card-wrapper">
+            <div class="swiper-wrapper forecast-swiper-wrapper"></div>
+          </div>
+          <!-- *If we need pagination -->
+          <div class="swiper-pagination"></div>
+          <!-- *If we need navigation buttons -->
+          <!-- <div class="swiper-button-prev"></div> -->
+          <!-- <div class="swiper-button-next"></div> -->
+        </div>
+
+        <!-- ! Final pronostico por horas del dia  -->
+      </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script type="module" src="./src/js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,212 @@
+[
+    {
+        "place_id": 16256617,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1224652,
+        "lat": "-34.6083696",
+        "lon": "-58.4440583",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.7722578508053152,
+        "addresstype": "city",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Comuna 6, Autonomous City of Buenos Aires, Argentina",
+        "boundingbox": [
+            "-34.7058155",
+            "-34.5265535",
+            "-58.5314481",
+            "-58.3351423"
+        ]
+    },
+    {
+        "place_id": 17314592,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1632167,
+        "lat": "-37.14984035",
+        "lon": "-60.1319456430117",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 8,
+        "importance": 0.6647137318929621,
+        "addresstype": "state",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Argentina",
+        "boundingbox": [
+            "-41.0383393",
+            "-33.2616119",
+            "-63.3927431",
+            "-56.6650604"
+        ]
+    },
+    {
+        "place_id": 13325387,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 303685,
+        "lat": "-7.7218931",
+        "lon": "-35.326587",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.4465186736993737,
+        "addresstype": "municipality",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Região Geográfica Imediata de Carpina, Região Geográfica Intermediária do Recife, Pernambuco, Northeast Region, Brazil",
+        "boundingbox": [
+            "-7.7780000",
+            "-7.6756459",
+            "-35.4378501",
+            "-35.2595306"
+        ]
+    },
+    {
+        "place_id": 285858991,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6268475,
+        "lat": "9.08001915",
+        "lon": "-83.22925069832269",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.4268557300244847,
+        "addresstype": "county",
+        "name": "Cantón de Buenos Aires",
+        "display_name": "Cantón de Buenos Aires, Puntarenas Province, Costa Rica",
+        "boundingbox": [
+            "8.7752874",
+            "9.3847047",
+            "-83.5635853",
+            "-82.9475716"
+        ]
+    },
+    {
+        "place_id": 293254105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 150964090,
+        "lat": "31.5212005",
+        "lon": "-111.6573325",
+        "class": "place",
+        "type": "hamlet",
+        "place_rank": 20,
+        "importance": 0.4030734179597349,
+        "addresstype": "hamlet",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Chukut Kuk District, Pima County, Arizona, United States",
+        "boundingbox": [
+            "31.5012005",
+            "31.5412005",
+            "-111.6773325",
+            "-111.6373325"
+        ]
+    },
+    {
+        "place_id": 285238342,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1717031,
+        "lat": "3.0165467",
+        "lon": "-76.6406849",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 12,
+        "importance": 0.39948960698892766,
+        "addresstype": "town",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Norte, Cauca, RAP Pacífico, Colombia",
+        "boundingbox": [
+            "2.8709234",
+            "3.1289321",
+            "-76.6875100",
+            "-76.5523779"
+        ]
+    },
+    {
+        "place_id": 287081105,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 5634388,
+        "lat": "10.0688779",
+        "lon": "-84.4357933",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3566039536603775,
+        "addresstype": "village",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Cantón de Palmares, Alajuela Province, 20703, Costa Rica",
+        "boundingbox": [
+            "10.0552961",
+            "10.0857970",
+            "-84.4499663",
+            "-84.4136243"
+        ]
+    },
+    {
+        "place_id": 2244796,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1971681,
+        "lat": "-6.7911007",
+        "lon": "-76.3270921",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3252605844508426,
+        "addresstype": "village",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Province of Picota, San Martín, Peru",
+        "boundingbox": [
+            "-6.8158967",
+            "-6.6779175",
+            "-76.5261989",
+            "-76.2749764"
+        ]
+    },
+    {
+        "place_id": 2307538,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 1986171,
+        "lat": "-5.2670919",
+        "lon": "-79.9675926",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.3218429900729251,
+        "addresstype": "town",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Province of Morropón, Piura, Peru",
+        "boundingbox": [
+            "-5.3793086",
+            "-5.1828007",
+            "-80.0210254",
+            "-79.8079980"
+        ]
+    },
+    {
+        "place_id": 286736972,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6271587,
+        "lat": "9.1726893",
+        "lon": "-83.3311519",
+        "class": "boundary",
+        "type": "administrative",
+        "place_rank": 16,
+        "importance": 0.2909143618576309,
+        "addresstype": "town",
+        "name": "Buenos Aires",
+        "display_name": "Buenos Aires, Cantón de Buenos Aires, Puntarenas Province, 60301, Costa Rica",
+        "boundingbox": [
+            "9.0061744",
+            "9.3847047",
+            "-83.3866028",
+            "-83.1746839"
+        ]
+    }
+]
