@@ -124,6 +124,7 @@ const cards = (data) => {
 const init = async () => {
     try {
 
+
         inputTxt.addEventListener("input", () => Validar(inputTxt.value));
 
         buttonSearch.addEventListener("click", (event) => {
@@ -135,6 +136,14 @@ const init = async () => {
     }
 
 };
+
+document.addEventListener("DOMContentLoaded", function () {
+    if (!sessionStorage.getItem("visitado")) {
+        modal.classList.remove("none")
+        modal__texto.textContent = "Ingrese una ciudad";
+        sessionStorage.setItem("visitado", "true");
+    }
+});
 
 init();
 
